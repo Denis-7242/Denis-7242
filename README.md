@@ -37,3 +37,17 @@
   <img src="https://img.icons8.com/color/48/express.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48
+
+---
+
+## 🤝 Connect with Me  
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp"/>
+  <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/ios-filled/48/000000/twitterx.png" alt="X (Twitter)"/>
+  <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube"/>
+  <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+  <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/>
+  <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
+</p>
