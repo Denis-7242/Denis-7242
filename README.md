@@ -36,8 +36,27 @@
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/express.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48
-    
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/ios/50/php-logo.png" alt="PHP"/>
+</p>
+
+### 🗄️ Databases  
+<p>
+  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+</p>
+
+### 🛠️ Tools & Platforms  
+<p>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/>
+  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+</p>
+
 ---
 
 ## 🤝 Connect with Me  
@@ -50,4 +69,8 @@
   <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   <img src="https://img.icons8.com/color/48/facebook.png" alt="Facebook"/>
   <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
-</p>
+</p>  
+
+---
+
+⭐️ From [Denis Murithi](https://github.com/Denis-7242)  
