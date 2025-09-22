@@ -25,21 +25,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denis-7242&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Denis-7242&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>  
@@ -57,7 +42,6 @@
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/express.png" alt="Express.js"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/ios/50/php-logo.png" alt="PHP"/>
 </p>
@@ -93,5 +77,18 @@
 </p>  
 
 ---
+<h2 align="center">📊 GitHub Stats</h2>  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Denis-7242&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Denis-7242&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
 
 <p align="center">⭐️ From <a href="https://github.com/Denis-7242">Denis Murithi</a></p>
