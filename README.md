@@ -1,22 +1,18 @@
 <!-- Typing SVG Banner -->
-<p align="center">
-  <a href="https://github.com/Denis-7242">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Denis+Murithi+👋;Software+Engineer+💻;Fullstack+Web+Developer+🌐;Flutter+%26+kotlin+Mobile+Dev+📱;Cybersecurity+Enthusiast+🔐" alt="Typing SVG" />
-  </a>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Denis%20Murithi%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Software+Engineer💻;fullstack+Web+Developer+🌐;Flutter+%26+kotlin+Mobile+Dev+📱;Cybersecurity+Enthusiast🔐" alt="Typing Animation"/>
 </p>
 
 ---
 
-<h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
-
-<p align="center">
-  <b>Software Engineer | Fullstack Web Developer | Mobile Developer (Flutter/kotlin) | Cybersecurity Enthusiast</b>
-</p>
-
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>  
-<p align="center">
+<h2>👨‍💻 About Me</h2>  
+<p>
 💻 Fullstack Developer (Frontend + Backend)<br>
 📱 Specializing in <b>Mobile Application Development</b> with <b>Flutter & kotlin</b><br>
 🔐 Passionate about <b>Cybersecurity</b> and building secure systems<br>
@@ -27,68 +23,87 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>  
+<h2>🛠️ Tech Stack</h2>  
 
-<h3 align="center">🌐 Frontend</h3>  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
-</p>
+<div align="center">
 
-<h3 align="center">⚙️ Backend</h3>  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/express.png" alt="Express.js"/>
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/ios/50/php-logo.png" alt="PHP"/>
-</p>
+### Primary Technologies
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,dart,flutter&theme=dark" />
 
-<h3 align="center">🗄️ Databases</h3>  
-<p align="center">
-  <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
-</p>
+### Languages & Frameworks  
+<img src="https://skillicons.dev/icons?i=cpp,c,java,js,html,css,expressjs,nodejs&theme=dark" />
 
-<h3 align="center">🛠️ Tools & Platforms</h3>  
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,firebase,mysql,mongodb,tailwind&theme=dark" />
+
+
+</div>
+
+---
+
+### 📫 **Connect with Me**
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@Denis7789183947)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denis-7242)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/den_is6446/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254793472969)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MR-Denis-M)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dexdenis3@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <p align="center">
-  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/android-studio--v3.png" alt="Android Studio"/>
-  <img src="https://img.icons8.com/color/48/linux.png" alt="Linux"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denis-7242&theme=radical&cache_seconds=86400" />
+<table>
+<tr>
+<td width="33%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denis-7242&theme=transparent" />
+
+</td>
+<td width="33%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Denis-7242&theme=transparent&utc_offset=5.5" />
+
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
-<h2 align="center">🤝 Connect with Me</h2>  
-
-<p align="center">
-  <img src="https://img.icons8.com/color/55/whatsapp.png" alt="WhatsApp"/>
-  <img src="https://img.icons8.com/color/55/linkedin.png" alt="LinkedIn"/>
-  <img src="https://img.icons8.com/ios-filled/55/000000/twitterx.png" alt="X (Twitter)"/>
-  <img src="https://img.icons8.com/color/55/youtube-play.png" alt="YouTube"/>
-  <img src="https://img.icons8.com/color/55/instagram-new.png" alt="Instagram"/>
-  <img src="https://img.icons8.com/color/55/facebook.png" alt="Facebook"/>
-  <img src="https://img.icons8.com/color/55/gmail.png" alt="Email"/>
-</p>  
+### 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=Denis-7242&color=blue&style=flat)
+<a href="https://www.github.com/Denis-7242" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Denis-7242?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+[![committers.top badge](https://user-badge.committers.top/kenya/Denis-7242.svg)](https://user-badge.committers.top/kenya/Denis-7242)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Denis-7242&label=Stars&query=$.stars&color=brightgreen&logo=github)
 
 ---
-<h2 align="center">📊 GitHub Stats</h2>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Denis-7242&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+## 📈 GitHub Activity Graph💹  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Denis-7242&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+---
 
 <p align="center">⭐️ From <a href="https://github.com/Denis-7242">Denis Murithi</a></p>
+
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
+
+</div>
