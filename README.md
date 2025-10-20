@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 About Me</h2>  
 <p>
-💻 Fullstack Developer (Frontend + Backend)<br>
+💻 Fullstack Web Developer (Frontend + Backend)<br>
 📱 Specializing in <b>Mobile Application Development</b> with <b>Flutter & kotlin</b><br>
 🔐 Passionate about <b>Cybersecurity</b> and building secure systems<br>
 🌱 Always learning and exploring new technologies<br>
