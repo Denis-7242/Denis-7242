@@ -90,8 +90,7 @@
 
 ### 👀 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=Denis-7242&color=blue&style=flat)
-<a href="https://www.github.com/Denis-7242" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Denis-7242?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 [![committers.top badge](https://user-badge.committers.top/kenya/Denis-7242.svg)](https://user-badge.committers.top/kenya/Denis-7242)
 ![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/Denis-7242&label=Stars&query=$.stars&color=brightgreen&logo=github)
 
