@@ -21,7 +21,7 @@
 📱 Specializing in <b>Mobile Application Development</b> with <b>Flutter & kotlin</b><br>
 🔐 Passionate about <b>Cybersecurity</b> and building secure systems<br>
 🌱 Always learning and exploring new technologies<br>
-💙 <b> Chelsea Love </b> 💙
+💙 <b>Chelsea Love</b> 💙
 </p>
 
 ---
