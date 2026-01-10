@@ -1,4 +1,4 @@
-<!-- Typing SVG Banner -->
+ <!-- Typing SVG Banner -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Denis%20Murithi%20%7C%20Software%20Engineer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
