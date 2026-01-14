@@ -72,11 +72,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
 ---
 
 ### 👀 Profile Views  
