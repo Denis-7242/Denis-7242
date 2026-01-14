@@ -62,30 +62,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=📊GitHub%20Analytics&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Denis-7242&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Denis-7242&theme=radical&cache_seconds=86400" />
-<table>
-<tr>
-<td width="33%">
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Denis-7242&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-7242&layout=donut&theme=transparent&hide_border=true&langs_count=8&border_radius=20&title_color=00FF41&text_color=C9D1D9&bg_color=00000000" height="200" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Denis-7242&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
 
-</td>
-<td width="33%">
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Denis-7242&theme=transparent" />
+<div align="center">
 
-</td>
-<td width="33%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Denis-7242&theme=transparent&utc_offset=5.5" />
-
-</td>
-</tr>
-</table>
-</p>
-
+</div>
 ---
 
 ### 👀 Profile Views  
