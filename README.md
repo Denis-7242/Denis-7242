@@ -15,7 +15,7 @@
 
 ---
 
-<h2>👨‍💻 About Me</h2>   
+<h2>👨‍💻 About Me </h2>   
 <p>
 💻 Fullstack Web Developer (Frontend + Backend)<br> 
 📱 Specializing in <b> Mobile Application Development</b> with <b>Flutter & kotlin</b><br>
