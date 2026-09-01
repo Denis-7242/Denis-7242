@@ -44,36 +44,6 @@ Beyond building functional applications, I have a deep-seated interest in **Cybe
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔐 Cybersecurity Roadmap
-**A comprehensive, step-by-step guide to mastering cybersecurity for all skill levels.**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Denis-7242/Complete-Cybersecurity-Roadmap)
-
-<br/>
-
-### 💊 DailyDose
-**A medication adherence and reminder application built with Flutter to improve health outcomes.**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Denis-7242/dailydose)
-
-<br/>
-
-### 📝 Notely
-**A beginner-friendly, intuitive mobile application for personal note management.**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Denis-7242/notely)
-
-<br/>
-
-### 🏫 School Management System
-**A Java-based system focused on implementing complex Data Structures and Algorithms.**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Denis-7242/SchoolManagementSystem)
-
-</div>
-
----
-
 ## 📫 Connect with Me
 
 <div align="center">
