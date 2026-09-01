@@ -71,21 +71,36 @@ Beyond building functional applications, I have a deep-seated interest in **Cybe
 
 <br/>
 
-<!-- 🐍 THE SNAKE -->
+## Contribution Snake
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Denis-7242/Denis-7242/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Denis-7242/Denis-7242/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Denis-7242/Denis-7242/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Denis-7242/Denis-7242/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+##
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Denis-7242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
+</div>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
 </div>
 
 <br/>
 
-<!-- 📊 ANALYTICS HUB -->
-<div align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Denis-7242&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&theme=react-dark" alt="GitHub Activity Graph" />
-</div>
-
-</div>
----
+##
 
 <p align="center">⭐️ From <a href="https://github.com/Denis-7242">Denis Murithi</a></p>
 
