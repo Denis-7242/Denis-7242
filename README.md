@@ -94,9 +94,9 @@ Beyond building functional applications, I have a deep-seated interest in **Cybe
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Denis-7242&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=E0F2F1" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&custom_title=Contribution+Graph&bg_color=0D1117&color=2DD4BF&line=14B8A6&point=E0F2F1&area=true&hide_border=true" />
-</div>
+</div> -->
 
 <br/>
 
