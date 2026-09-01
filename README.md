@@ -87,14 +87,20 @@ Beyond building functional applications, I have a deep-seated interest in **Cybe
 
 <br/>
 
-<!-- 🔥 MOMENTUM ZONE -->
-### ⚡ Contribution Momentum
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Denis-7242&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+<!-- 🔥 ACTIVITY HUB -->
+### ⚡ Activity Hub
+<br/>
+
+<!-- The Snake Animation -->
+<img src="https://raw.githubusercontent.com/Denis-7242/Denis-7242/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 
 <br/>
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&theme=react-dark" alt="GitHub Activity Graph" />
+<!-- Analytical Data -->
+<div align="center">
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Denis-7242&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Denis-7242&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
 
 </div>
 ---
