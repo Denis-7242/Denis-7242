@@ -75,7 +75,6 @@ Beyond building functional applications, I have a deep-seated interest in **Cybe
 
 <br/>
 
-## 📊 GitHub Statistics
 
 <div align="center">
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=Denis-7242&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=14B8A6&text_color=E0F2F1&ring_color=0D9488&count_private=true" />
